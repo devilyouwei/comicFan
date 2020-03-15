@@ -1,4 +1,5 @@
 #!/bin/bash
+api='https://aip.baidubce.com/oauth/2.0/token?grant_type=client_credentials&client_id=18846413&client_secret=iKDp5XQ7thBCNvvBkodOyTk3ggVhlbDC'
 id=12431
 chap=1
 img=0

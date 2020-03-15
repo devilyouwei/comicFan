@@ -25,7 +25,7 @@ do
         if [ "$iftrans" == "" ];then
             echo "- [Chapter $chapter](./$chapter/README.md)" >> $comicReadme
         else
-            echo "- [Chapter $chapter (translated)](./$chapter/README.md) :ok_hand:" >> $comicReadme
+            echo "- [Chapter $chapter (translated)](./$chapter/README.md)" >> $comicReadme
         fi
         echo "Create readme for chapter $chapter"
         # add img link to chapter readme

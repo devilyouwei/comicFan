@@ -18,7 +18,7 @@ The following comics are being updated and translated
 
 Thank you for visiting our comic page and supporting the Comic Fan.
 
-If you would like to catch up with the latest comics or you like our works, please click [**'follow'**](https://github.com/devilyouwei) or give us a **'star'**⭐ in the upper right corner of [GitHub](https://github.com/devilyouwei/comicFan).
+If you would like to catch up with the latest comics or you like our works, please click [follow](https://github.com/devilyouwei) or give us a [star](https://github.com/devilyouwei/comicFan) in the upper right corner of [GitHub](https://github.com/devilyouwei/comicFan).
 
 Thank you very much.
 

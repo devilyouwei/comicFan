@@ -1,4 +1,4 @@
-# God of Random 兼职神仙
+# God At Random 兼职神仙
 
 ![poster](poster.jpg)
 

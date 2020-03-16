@@ -1,4 +1,4 @@
-# God At Random
+# God of Random 兼职神仙
 
 ![poster](poster.jpg)
 
@@ -10,7 +10,7 @@
 - [Chapter 6](./6/README.md)
 - [Chapter 7](./7/README.md)
 - [Chapter 8](./8/README.md)
-- [Chapter 9 (translated)](./9/README.md) :ok_hand:
+- [Chapter 9 (translated)](./9/README.md)
 - [Chapter 10](./10/README.md)
 - [Chapter 11](./11/README.md)
 - [Chapter 12](./12/README.md)

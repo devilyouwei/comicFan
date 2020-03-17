@@ -8,7 +8,7 @@ Enjoy it. 😏 😏 😏
 
 The following comics are being updated and translated
 
--   [God At Random 兼职神仙](./12431/README.md) \(Chapter 10\) 🔥
+-   [God At Random 兼职神仙](./12431/README.md) \(Chapter 11\) 🔥
 
 ## Youtube ![youtube](./icons/youtube.png)
 

@@ -13,7 +13,7 @@
 - [Chapter 9 (translated)](./9/README.md)
 - [Chapter 10 (translated)](./10/README.md)
 - [Chapter 11 (translated)](./11/README.md)
-- [Chapter 12](./12/README.md)
+- [Chapter 12 (translated)](./12/README.md)
 - [Chapter 13](./13/README.md)
 - [Chapter 14](./14/README.md)
 - [Chapter 15](./15/README.md)

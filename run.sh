@@ -7,27 +7,25 @@ error=0
 domain="https://img.onemanhua.com/comic"
 read -p "Enter the comic id: " id
 read -p "Enter the start chapter: " chap
-while (($error<3))
-do
-    if [ ! -d $id  ];then
+while (($error < 3)); do
+    if [ ! -d $id ]; then
         mkdir $id
     fi
-    if [ ! -d "$id/$chap"  ];then
+    if [ ! -d "$id/$chap" ]; then
         mkdir "$id/$chap"
     fi
     ((img++))
-    imgpath=`printf "%04d" $img`
+    imgpath=$(printf "%04d" $img)
     url="$domain/$id/第$chap话/$imgpath.jpg"
     out="./$id/$chap/$img.jpg"
-    if [ -f $out ];then
+    if [ -f $out ]; then
         echo "$out existed chapter! Jump->"
         error=0
         continue
     fi
     echo "Downloading $url"
-    `wget $url>/dev/null -qO $out`
-    if (("$?" == 8))
-    then
+    $(wget $url -qO $out >/dev/null)
+    if (("$?" == 8)); then
         ((chap++))
         ((error++))
         rm $out
